@@ -2,7 +2,7 @@
 An IoT project to monitor weather and real time visualizations
 
 ### Abstract
-This is a weather monitoring service. We use different kind of sensors to monitor metrics such as temperature, pressure, humidity, etc. This project the weather is a very generic term, this project actually aims to monitor indoor parameters such as offices, buildings, etc.
+This is a weather monitoring service. We use different kind of sensors to monitor metrics such as temperature, pressure, humidity, etc. In this project the term "weather" is very generic. This project actually aims to monitor indoor parameters such as offices, buildings, etc.
 
 ### Objectives of this project:
 * To monitor indoor conditions.
